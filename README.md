@@ -3,6 +3,12 @@ Using Streamlit, a robust open-source library for developing front-end applicati
 HTML/CSS/JS for UI development is replaced with Streamlit for quicker prototyping of data-science
 and machine learning models.
 
+```
+APPS
+>  GitScrape
+>  AudioTranscribe
+```
+
 ## GitScrape
 A demo web app using Streamlit to scrape Github for user information, using
 Beautiful Soup library for web scraping
@@ -19,3 +25,9 @@ Username search in searchbar
 
 Scraped data results in table view
 ![scraped data](https://github.com/user-attachments/assets/55dd98d4-3e53-4861-b0d5-b1e73dcdb07e)
+
+## AudioTranscribe
+Transcribes audio using assemblyAI APIs.
+
+###   Sample UI Screenshots
+![transcribe audio](https://github.com/user-attachments/assets/69d2ff17-4fef-4139-8ac5-93c1c508b615)
