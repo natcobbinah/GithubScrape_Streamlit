@@ -1,11 +1,16 @@
-# A streamlit app to scrape Github profiles
+# Python and Streamlit
+Using Streamlit, a robust open-source library for developing front-end applications with Python,
+HTML/CSS/JS for UI development is replaced with Streamlit for quicker prototyping of data-science
+and machine learning models.
+
+## GitScrape
 A demo web app using Streamlit to scrape Github for user information, using
 Beautiful Soup library for web scraping
 
-## Features
+###  Features
 Displays basic user information and some of their recent repositories
 
-## Sample UI Screenshots
+###  Sample UI Screenshots
 Rendered Streamlit App UI
 ![streamlit demo](https://github.com/user-attachments/assets/052c6ad1-c4e9-4ec1-9cec-7bfcdc611714)
 
