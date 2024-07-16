@@ -7,6 +7,7 @@ and machine learning models.
 APPS
 >  GitScrape
 >  AudioTranscribe
+>  Youtube downloader
 ```
 
 ## GitScrape
@@ -29,5 +30,14 @@ Scraped data results in table view
 ## AudioTranscribe
 Transcribes audio using assemblyAI APIs.
 
-###   Sample UI Screenshots
+### Sample UI Screenshots
 ![transcribe audio](https://github.com/user-attachments/assets/69d2ff17-4fef-4139-8ac5-93c1c508b615)
+
+### Youtube downloader
+Download video and audio using pytube library:
+```
+[NOTE]: Pytube library has some bugs, which are being currently fixed
+```
+### Sample UI Screenshots
+![pytube img](https://github.com/user-attachments/assets/8a042b76-ff85-4453-8fa5-cda66715d641)
+
