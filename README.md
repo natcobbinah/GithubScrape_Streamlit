@@ -8,6 +8,7 @@ APPS
 >  GitScrape
 >  AudioTranscribe
 >  Youtube downloader
+>  Trending wordsCloud
 ```
 
 ## GitScrape
@@ -40,4 +41,13 @@ Download video and audio using pytube library:
 ```
 ### Sample UI Screenshots
 ![pytube img](https://github.com/user-attachments/assets/8a042b76-ff85-4453-8fa5-cda66715d641)
+
+### Trending word clouds
+Generates and displays word cloud of trending clouds of Twitter hashtags and Google trending words
+using beautifulSoup for scraping data, and rendering with wordcloud package
+
+### Sample UI Screenshots
+![wordcloud 1](https://github.com/user-attachments/assets/3083e665-a4cc-462f-8acf-de537d95bce4)
+
+![wordcloud 2](https://github.com/user-attachments/assets/ca1c0b5a-5486-42fd-8ef6-a9d556a3536a)
 
